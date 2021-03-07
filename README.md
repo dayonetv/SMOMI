@@ -38,9 +38,9 @@ outputs = tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.sof
 ***
 ### После обучения данной нейронной сети получили следующие графики:
 * График точности для сверточной нейронной сети с одним сверточных слоем:
-![accuracy 512_batch_size](https://user-images.githubusercontent.com/59259102/110211637-342a8100-7ea0-11eb-92d8-e1555b53729e.jpg)  
+<img src="./epoch_categorical_accuracy(1).svg">
 * График функции потерь для сверточной нейронной сети с одним сверточных слоем:
-![loss 512_batch_size](https://user-images.githubusercontent.com/59259102/110211665-50c6b900-7ea0-11eb-851d-3d5912691f13.jpg)
+<img src="./epoch_loss(1).svg">
 * Анализ полученных результатов
 ***
 ----
