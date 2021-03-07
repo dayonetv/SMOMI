@@ -41,6 +41,7 @@ outputs = tf.keras.layers.Dense(NUM_CLASSES, activation=tf.keras.activations.sof
 <img src="./epoch_categorical_accuracy(1).svg">
 * График функции потерь для сверточной нейронной сети с одним сверточных слоем:
 <img src="./epoch_loss(1).svg">
+
 * Анализ полученных результатов
 ***
 ----
